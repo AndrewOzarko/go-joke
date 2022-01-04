@@ -11,5 +11,4 @@
 - `cd go-joke`
 - `docker-compose build`
 - `docker-compose up -d`
-
 - `open your browser http://localhost:8082`
